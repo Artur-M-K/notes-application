@@ -3,14 +3,24 @@
     {
       "id": 2,
       "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n-play videogame",
-      "updated": "2021-10-05T10:36:06.053Z",
+      "updated": "2021-10-05T11:19:09.321Z",
       "created": "2021-07-13T00:17:13.289897Z"
     },
     {
       "id": 3,
-      "body": "Wash car and tank full",
-      "updated": "2021-10-05T10:36:14.003Z",
+      "body": "Wash car \n tank full\nmake groceries",
+      "updated": "2021-10-05T11:20:23.171Z",
       "created": "2021-07-13T00:16:22.399841Z"
+    },
+    {
+      "body": "new note",
+      "updated": "2021-10-05T11:19:01.385Z",
+      "id": 4
+    },
+    {
+      "body": "second note",
+      "updated": "2021-10-05T11:11:05.994Z",
+      "id": 5
     }
   ]
 }
