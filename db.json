@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "id": 2,
+      "body": "Bob from bar down the \n\n- Take out trash\n- Eat food\n-play videogame",
+      "updated": "2021-10-05T10:36:06.053Z",
+      "created": "2021-07-13T00:17:13.289897Z"
+    },
+    {
+      "id": 3,
+      "body": "Wash car and tank full",
+      "updated": "2021-10-05T10:36:14.003Z",
+      "created": "2021-07-13T00:16:22.399841Z"
+    }
+  ]
+}
